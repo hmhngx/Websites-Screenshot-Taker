@@ -87,7 +87,7 @@ Fill out the form under "Design Your Screenshot":
 The "Current Query Preview" section shows the API query being sent to APIFlash, updating in real-time as you fill out the form.
 
 ## 🖼️ Walkthrough:
-![wlkthr](public/screenshot studio.gif)
+![wlkthr](/public/screenshot studio.gif)
 
 Main interface with the form and quota display.
 A successful screenshot capture with the gallery populated.
