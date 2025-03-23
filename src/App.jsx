@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import APIForm from './Components/APIForm'
-import Gallery from './Components/Gallery'
+import APIForm from './components/APIForm'
+import Gallery from './components/Gallery'
 
 function App() {
   const [inputs, setInputs] = useState({
